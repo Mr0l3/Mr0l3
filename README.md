@@ -8,6 +8,8 @@
 </p>
 <br/>
 
+- 👨‍💻 My personal website <a href="https://henrique-website.herokuapp.com/" target="_blank"> **Click here to visit** </a>
+
 - 🔭 I’m currently working on **getting an internship**
 
 - 🌱 I’m currently learning **Python Data Stack and TensorFlow**
